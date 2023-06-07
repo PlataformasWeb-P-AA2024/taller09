@@ -5,6 +5,7 @@
 1. Crear un proyecto en Django llamada **miproyecto**
 
   1.1. Crear un super usuario
+  
   1.2. Probar el ingreso al admin
 
 2. Ingresar a la consola de Django
@@ -15,7 +16,7 @@ python manage.py shell
 
 3. Leer el archivo .csv de la carpeta data
 
-4. Analizar como usar las siguiente líneas de código que en su conjunto permiten agregar usuarios a Django.
+4. Analizar como usar las siguientes líneas de código que en su conjunto permiten agregar usuarios a Django.
 
 ```
 from django.contrib.auth.models import User
