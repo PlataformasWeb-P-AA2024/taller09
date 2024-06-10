@@ -30,4 +30,3 @@ user.save()
 
 **Importante**
 * Probar el proceso en sqlite
-* Probar el proceso en postgres
